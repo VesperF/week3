@@ -32,9 +32,23 @@ let promotion3Icon          // expects a String (emoji)
 
 function pageLoad() {
   // 👇 YOUR CODE BEGINS HERE. DON'T CHANGE ANY OTHER CODE. 👇
-
+  
   // 🔥🔥🔥 YOUR CODE GOES HERE 🔥🔥🔥
   console.log(database)
+  numberOfProducts = database.products.length
+  products = database.products
+  
+  
+  // let randPromotion1 = database.promotions[getRandomInt(database.promotions.length - 1)]
+
+  // promotion1Description = randPromotion1
+
+  // console.log(promotion1Description)
+  
+  
+  //if (promotion1Icon 🚛 for shipping
+  // - 🤑 for discount
+  // - 🎰 for contest
 
   //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
 }
