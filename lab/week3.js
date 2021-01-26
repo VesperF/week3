@@ -73,11 +73,5 @@ function pageLoad() {
   }
  
 
-  
-  
-  //if (promotion1Icon 🚛 for shipping
-  // - 🤑 for discount
-  // - 🎰 for contest
-
   //  👆 YOUR CODE ENDS HERE. DON'T CHANGE ANY OTHER CODE 👆
 }
